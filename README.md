@@ -1,7 +1,7 @@
 ## Focus Bot- Hocus Pocus, Don't Lose Focus!
 #### With JavaScript, Nodejs, GCP's Firebase on Mattermost Platform 
 _____________________________________________________________________
-Developed a productivity bot in JavaScript and Node.js using GCP’s Firebase- allowing the user to:
+Developed a productivity bot called P.A.M (Personal Accountability Manager) bot in JavaScript and Node.js using GCP’s Firebase- allowing the user to:
 
 * show/create/close assigned GitHub issues 
 * set/remove personal reminders
